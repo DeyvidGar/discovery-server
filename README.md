@@ -14,6 +14,8 @@
 
 ## Endpoints
 
+- To show all of microservices registers with Discovery client in this Discovery server.
+
 >**GET**: localhost:8761
 
 ## Configuration
