@@ -68,6 +68,16 @@ https://github.com/DeyvidGar/config-repository-microservices.git
 https://github.com/DeyvidGar/initial-artifact-microservice.git
 ```
 
+### 5. Start up Gateway
+
+<p>Finally steps is create the microservice apps, for example you can clone the artifact of a microservice.</p>
+
+<p>You can clone the repository:</p>
+
+```console
+https://github.com/DeyvidGar/api-gateway.git
+```
+
 ## What i need?
 
 <p>You need to have installed:<p>
